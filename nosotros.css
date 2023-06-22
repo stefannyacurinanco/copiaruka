@@ -1,0 +1,134 @@
+.Sección5 {
+    max-width: 1200px;
+    display: flex;
+    background-color: #E6B54A;
+    width: 80%;
+    margin: auto;
+    
+}
+    
+.img {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+
+/*.horizontal-line {
+    display: flex;
+    padding: 30px;
+    vertical-align: top;
+    height: 50px;
+    width: 40%;
+    border: none;
+    border-top: 1px solid white;
+}*/
+
+
+
+.parrafo {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-style: normal;
+    padding: 50px;
+    width: 400px;
+    color: #FFFFFF
+    
+}
+
+.parrafo h1 {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 43px;
+    text-align: center;
+    margin: 0;
+    
+    
+    
+
+}
+.parrafo h2 {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    margin: 0;
+    text-align: center;
+    
+}
+
+.parrafo p {
+    font-family: 'Abel';
+    font-style: normal;
+    font-weight: 180;
+    font-size: 19px;
+    text-align: center;
+}
+
+.parrafo h3 {
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 180;
+    font-size: 22px;
+    text-align: right;
+    
+}
+
+
+.souvenirs {
+    display: flex;
+    max-width: 1200px;
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    
+
+}
+
+.titulo {
+    flex: 1;
+    text-align: left;
+}
+
+h2{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 43px;
+    text-align: center;
+    margin: 0;
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+
+}
+
+.imgtext {
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    display:flex;
+    justify-content: space-between;
+}
+.columna1 {
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    display:flex;
+    
+  }
+
+.columna2 {
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    display:flex;
+
+}  
